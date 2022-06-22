@@ -1,16 +1,20 @@
-### Hi there 👋
+![Authorises' Profile Views](https://komarev.com/ghpvc/?username=Authorises&color=ff69b4)
+# Heyo, its Authorises 👋
+### I'm 14 and I love coding and homelabbing.
+### Currently working on Instinctia Network 
+## Experience:
 
-<!--
-**Authorises/Authorises** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Python ( 3 Years ) 🐍
+- Html/Css ( 4 Years ) 🖌️
+- Java ( 2 Years ) ☕
+- Bukkit and Spigot API ( 2 Years ) 🎮
+- Linux and System Administration ( 1 Year ) 🐚
 
-Here are some ideas to get you started:
+## Get in touch:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- disc: ```Authorises#0932```
+- repl: ```@Authorises```
+
+## Some stats:
+
+![Authorises' GitHub stats](https://github-readme-stats.vercel.app/api?username=Authorises)
