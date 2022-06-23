@@ -4,7 +4,7 @@
 ### Currently working on Instinctia Network 
 ## Some stats:
 
-![Authorises' GitHub stats](https://github-readme-stats.vercel.app/api?username=Authorises)
+![Authorises' GitHub stats](https://github-readme-stats.vercel.app/api?username=Authorises&count_private=true&show_icons=true)
 ![Authorises' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Authorises&layout=compact)
 ## Experience:
 - Html/Css ( 4 Years ) 🖌️
