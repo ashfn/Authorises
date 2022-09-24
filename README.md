@@ -1,7 +1,7 @@
 ![Authorises' Profile Views](https://komarev.com/ghpvc/?username=Authorises&color=ff69b4)
 # Heyo, its Authorises 👋
 ### I love coding and gaming.
-### Currently working on the Inazuma Pit and the Cavelet Minecraft Server
+### Currently working on Instinctia and the Cavelet Minecraft Server
 ## Some stats:
 
 ![Authorises' GitHub stats](https://github-readme-stats.vercel.app/api?username=Authorises&count_private=true&show_icons=true)
