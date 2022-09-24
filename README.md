@@ -14,10 +14,9 @@
 - Linux and System Administration ( 1 Year ) 🐚
 
 ## Notable Projects:
-- [Password Manager (ARCHIVED)](https://github.com/Authorises/PasswordManager) This isn't supposed to be anything special, just a simplified client/server password/secure note manager.
+- [Portfolio](https://github.com/Authorises/Portfolio) This is a basic and clean portfolio where you can tell people a bit about yourself and showcase your projects using JSON. [Demo Here](https://authorises.vercel.app)
 - [Faction Alert](https://github.com/Authorises/FactionAlert) A simple spigot plugin that allows you to add a command to factions to alert everyone on your team a message.
 
 ## Get in touch:
 
 - disc: ```Authorises#0932```
-- repl: ```@Authorises```
