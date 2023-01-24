@@ -1,15 +1,15 @@
-![Authorises' Profile Views](https://komarev.com/ghpvc/?username=Authorises&color=ff69b4)
 # Hello, I'm Authorises
 ### I enjoy coding and gaming.
-### I am currently working on the Instinctia minecraft server using a variety of technologies.
+### I am currently working on a [Instinctia Network](https://github.com/InstinctiaNetwork)
 
 ## Experience:
-- Html/Css  4 Years  
-- Python  3 Years 
-- Java  2 Years )
-- Bukkit and Spigot API  2 Years 
-- Linux and System Administration  1 Year 
+- Html/Css
+- Python
+- Java
+- Bukkit and Spigot API
+- Linux and System Administration
 
 ## Notable Projects:
 - [Portfolio](https://github.com/Authorises/Portfolio) This is a basic and clean portfolio where you can tell people a bit about yourself and showcase your projects using JSON. [Demo Here](https://authorises.vercel.app)
 - [Faction Alert](https://github.com/Authorises/FactionAlert) A simple spigot plugin that allows you to add a command to factions to alert everyone on your team a message.
+- [Paint](https://github.com/Authorises/paint) A simple Node.JS and Socket.IO game where there is a 20x20 board and players fight for control over it! Test it out [Here](https://paint.authorises.repl.co) *(It might take 10s to load)*
