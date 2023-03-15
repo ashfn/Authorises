@@ -12,11 +12,10 @@
 ## Notable Projects:
 
 
-### [Portfolio](https://github.com/Authorises/Portfolio) This is a basic and clean portfolio where you can tell people a bit about yourself and showcase your projects using JSON. [Demo Here](https://authorises.vercel.app)
+### [Portfolio](https://github.com/Authorises/Portfolio) This is a basic and clean portfolio where you can tell people a bit about yourself and showcase your projects using JSON [Demo Here](https://authorises.vercel.app)
 <img src="portfolio.png" alt="Screenshot of my Portfolio Website" style="height: 300px; width:600px;"/>
 
-### [Ashbucks](https://github.com/Authorises/Portfolio) A fun centralised online money system (Not linked to USD in any way) which has mining and transactions.
-[Demo Here](https://ashbucks.vercel.app)
+### [Ashbucks](https://github.com/Authorises/Portfolio) A fun centralised online money system (Not linked to USD in any way) which has mining and transactions. [Demo Here](https://ashbucks.vercel.app)
 <img src="ashbucks.png" alt="Screenshot of the Ashbucks dashboard" style="height: 300px; width:600px;"/>
 
 ### [Faction Alert](https://github.com/Authorises/FactionAlert) A simple spigot plugin that allows you to add a command to factions to alert everyone on your team a message.
